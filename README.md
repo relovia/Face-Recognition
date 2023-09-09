@@ -2,7 +2,7 @@
 
 This is a simple web application that can detect faces in images. Users can input image URLs to identify faces in the pictures.
 
-![Sample Application](https://imgur.com/YrnSkFD)
+![Sample Application](https://i.imgur.com/YrnSkFD.png)
 
 ## How It Works
 
